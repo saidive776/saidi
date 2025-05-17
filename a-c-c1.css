@@ -1,0 +1,58 @@
+::selection {
+	background: #6169FF;
+	color: #fff;
+}
+::-moz-selection {
+	background: #6169FF;
+	color: #fff;
+}
+.section-title-wrapper h3:before,
+.step-loader .ball-scale-multiple>div,
+.proccessing-loadbar div,
+.ball-scale-multiple>div,
+.listing-item-d-btn,
+.featured-app-slider-item .listing-item-rating,
+.listing-item-badge-w,
+#close-search,
+.appdet-exit,
+.appdet-t-btn,
+.loadp-w .loadp-spin .gauge,
+.loadp-w .loadp-spin .loadp-spin-circle {
+    background: #6169FF;
+}
+.appdet-badge-b,
+.appdet-description ol li:before,
+.appdet-description ul li:before {
+	border: 1px solid #6169FF;
+}
+.madpt .ar-wa-f-l-w {
+	border-bottom: 2px solid #6169ff;
+}
+.loadp-w .loadp-spin .gauge {
+	border: 2px solid #6169ff;
+}
+/* Grouping selectors with the same text color */
+.listing-item-by-val,
+#app-step-by,
+#s-p-c-title,
+.ar-wa-view-nav-item.ar-wa-view-nav-item-active span,
+.stw-view-all,
+.appdet-badge-b,
+.appdet-description a,
+.appdet-description a:hover,
+.appdet-description a:visited,
+.appdet-description ol li:before {
+    color: #6169FF;
+}
+.loadp-w .loadp-spin .loadp-spin-circle {
+	box-shadow: 0px 0px 15px 1px #6169ff;
+}
+.access-notice-icon,
+.color-mode-btn-icon,
+.cat-icon,
+.ar-wa-view-nav-item.ar-wa-view-nav-item-active .ar-wa-nav-icon,
+.listing-item-meta-icon,
+.appdet-meta-icon,
+.search-icon {
+    filter: invert(51%) sepia(82%) saturate(5064%) hue-rotate(224deg) brightness(101%) contrast(102%);
+}
